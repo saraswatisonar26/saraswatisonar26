@@ -2,7 +2,7 @@
 <h3 align="center">Computer Engineering student passionate about AI, Machine Learning,and Data Science</h3> 
 
 
-<h3>🤖 Interested in Data Science, AI & Machine Learning   </h3>
+<h3>🤖 Interested in Java Development ,Data Science & Gen AI    </h3>
 <h3>💻 Languages: Java, Python, C++  Python, SQL, R  , JavaScript, HTML/CSS </h3>
 <h3>📊 Tools: Pandas, NumPy, Matplotlib, TensorFlow </h3>
 <h3>📫 Reach me at: [LinkedIn](www.linkedin.com/in/saraswati-sonar-0b7263287) | [Email](saraswatisonar26@gmail.com)</h3>
