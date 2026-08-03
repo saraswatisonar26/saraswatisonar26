@@ -20,15 +20,31 @@ Final Year Computer Engineering Student | Java Full Stack Developer | AI & Machi
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
-- Java
-- Python
-- SQL
-- JavaScript
-- HTML
-- CSS
+### 💻 Programming Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,html,css" />
+</p>
+
+### 🚀 Frameworks & Libraries
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=spring,flask,react,nodejs,tensorflow" />
+</p>
+
+### 🗄️ Database
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+### ⚙️ Tools & Technologies
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma" />
+</p>
 
 ### Frameworks
 - Spring Boot
