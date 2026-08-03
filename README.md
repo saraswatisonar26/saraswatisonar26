@@ -21,7 +21,7 @@
 🚀 Passionate about Building AI-Powered Applications
 
 </div>
-<img src="https://user-images.githubusercontent.com/74038190/212750697-5d6d8e4f-fb4d-44d7-80d5-c39d17f7f14f.gif" width="100%">
+
 
 ## 👩‍💻 About Me
 
