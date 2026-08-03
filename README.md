@@ -5,6 +5,23 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Spring+Boot+Developer;Always+Learning+New+Technologies;Welcome+to+My+GitHub+Profile!" />
 
 </div>
+<div align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh3aTF5M2M0M2h2N2F5bXh6MWl4MXJ4d2V4N3B2NmZyNmxjOHlqNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif" width="600"/>
+
+</div>
+<div align="center">
+
+### 💻 Java Full Stack Developer | 🤖 AI & Machine Learning Enthusiast
+
+🎓 Final Year Computer Engineering Student
+
+📍 Nashik, Maharashtra, India
+
+🚀 Passionate about Building AI-Powered Applications
+
+</div>
+<img src="https://user-images.githubusercontent.com/74038190/212750697-5d6d8e4f-fb4d-44d7-80d5-c39d17f7f14f.gif" width="100%">
 
 ## 👩‍💻 About Me
 
