@@ -21,20 +21,28 @@ Final Year Computer Engineering Student | Java Full Stack Developer | AI & Machi
 ---
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,html,css&perline=7" />
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,html,css,javascript&theme=dark"/>
 </p>
 
+### 🚀 Frameworks
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=spring,react,flask,tensorflow,nodejs&theme=dark"/>
+</p>
+
+### 🗄 Database
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark"/>
+</p>
+
+### ⚙ Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma&theme=dark"/>
 </p>
 
 ---
@@ -109,31 +117,76 @@ Final Year Computer Engineering Student | Java Full Stack Developer | AI & Machi
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 Featured Projects
 
-🌿 AgroVision AI
-AI-based Crop Disease Detection using TensorFlow & Flask.
+<table>
+<tr>
+<td width="50%">
 
-⚡ EV ChargeSense
-EV Charging Station Demand Prediction Dashboard.
+### 🌿 AgroVision AI
+AI-powered Crop Disease Detection System using **TensorFlow**, **Flask**, and **Deep Learning**.
 
-🏥 Hospital Readmission Prediction
-Machine Learning based Healthcare Analytics.
+</td>
 
-🎤 AI Voice Assistant
-Voice-controlled Assistant with AI capabilities.
+<td width="50%">
 
-🌦 Weather Forecast Website
-Weather Application using API Integration.
+### ⚡ EV ChargeSense
+Machine Learning dashboard for predicting EV charging station demand.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🏥 Hospital Readmission Prediction
+Healthcare analytics project using Machine Learning algorithms.
+
+</td>
+
+<td>
+
+### 🎙 AI Voice Assistant
+Voice-controlled AI Assistant built using Python.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🌦 Weather Forecast Website
+Weather application using REST API and JavaScript.
+
+</td>
+
+<td>
+
+### 📺 YouTube Channel Analyzer
+Flask-based analytics dashboard for YouTube channels.
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📫 Connect With Me
 
-📧 Email:
-saraswatisonar26@gmail.com
+<p align="center">
 
-💼 LinkedIn:
-www.linkedin.com/in/saraswati26
+<a href="mailto:saraswatisonar26@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/saraswati26">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 
