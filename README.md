@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Saraswati Sonar</h1>
+<div align="center">
 
-<h3 align="center">
-Final Year Computer Engineering Student | Java Full Stack Developer | AI & Machine Learning Enthusiast
-</h3>
+# Hi 👋 I'm Saraswati Sonar
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Spring+Boot+Developer;Always+Learning+New+Technologies;Welcome+to+My+GitHub+Profile!" />
+
+</div>
 
 ## 👩‍💻 About Me
 
