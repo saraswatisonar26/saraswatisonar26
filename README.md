@@ -7,7 +7,7 @@
 </div>
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh3aTF5M2M0M2h2N2F5bXh6MWl4MXJ4d2V4N3B2NmZyNmxjOHlqNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif" width="600"/>
+
 
 </div>
 <div align="center">
@@ -42,6 +42,13 @@
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,cpp,c,html,css,javascript&theme=dark"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </p>
 
 ### 🚀 Frameworks
